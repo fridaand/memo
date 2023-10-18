@@ -1,4 +1,29 @@
 {
+  "avocado": {
+    "text": "Avodcado",
+    "emoji": "🥑",
+    "audio": "sound/vegetables/avocado.mp3"
+  },
+  "cucumber": {
+    "text": "Cucumber",
+    "emoji": "🥒",
+    "audio": "sound/vegetables/cucumber.mp3"
+  },
+  "tomato": {
+    "text": "Tomato",
+    "emoji": "🍅",
+    "audio": "sound/vegetables/tomato.mp3"
+  },
+  "eggplant": {
+    "text": "Eggplant",
+    "emoji": "🍆",
+    "audio": "sound/vegetables/eggplant.mp3"
+  },
+  "bellpepper": {
+    "text": "Bell pepper",
+    "emoji": "🫑",
+    "audio": "sound/vegetables/bellpepper.mp3"
+  },
   "chilli": {
     "text": "Chilli",
     "emoji": "🌶️",
