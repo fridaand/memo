@@ -1,0 +1,32 @@
+{
+  "monkey": {
+    "text": "Monkey",
+    "emoji": "🐒",
+    "audio": "sound/animals/monkey.mp3"
+  },
+  "rabbit": {
+    "text": "Rabbit",
+    "emoji": "🐇",
+    "audio": "sound/animals/rabbit.mp3"
+  },
+  "elephant": {
+    "text": "Elephant",
+    "emoji": "🐘",
+    "audio": "sound/animals/elephant.mp3"
+  },
+  "giraffe": {
+    "text": "Giraffe",
+    "emoji": "🦒",
+    "audio": "sound/animals/giraffe.mp3"
+  },
+  "cat": {
+    "text": "Cat",
+    "emoji": "🐈",
+    "audio": "sound/animals/cat.mp3"
+  },
+  "dog": {
+    "text": "Dog",
+    "emoji": "🐕",
+    "audio": "sound/animals/dog.mp3"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "banana": {
+    "text": "Banana",
+    "emoji": "🍌",
+    "audio": "sound/fruits/banana.mp3"
+  },
+  "apple": {
+    "text": "Apple",
+    "emoji": "🍎",
+    "audio": "sound/fruits/apple.mp3"
+  },
+  "kiwi": {
+    "text": "Kiwi",
+    "emoji": "🥝",
+    "audio": "sound/fruits/kiwi.mp3"
+  },
+  "strawberry": {
+    "text": "Strawberry",
+    "emoji": "🍓",
+    "audio": "sound/fruits/strawberry.mp3"
+  },
+  "cherry": {
+    "text": "Cherry",
+    "emoji": "🍒",
+    "audio": "sound/fruits/cherry.mp3"
+  },
+  "pear": {
+    "text": "Pear",
+    "emoji": "🍐",
+    "audio": "sound/fruits/pear.mp3"
+  }
+}
