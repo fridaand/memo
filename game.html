@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lingo Memory Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <main>
+      <div class="game">
+        <div class="controls">
+          <button class="start-button">Start</button>
+          <div class="game-info">
+            <div class="moves">Drag: 0</div>
+            <div class="timer">Tid: 0 sek</div>
+          </div>
+        </div>
+
+        <div class="board-container">
+          <div class="board" data-dimension="4"></div>
+          <div class="win">Du vann!</div>
+        </div>
+
+        <button
+          class="button-style"
+          onclick="window.location.href='menu.html';"
+        >
+          Till huvudmenyn
+        </button>
+
+        <div>
+          <div id="completedGames">Antal avklarade spel: 0</div>
+          <div id="totalMinutes">Totalt antal spelade minuter:</div>
+        </div>
+        <button id="mute-button" class="button-mute">
+          🔇
+          <!-- Lägga in en högtalarsymbol/ikon -->
+        </button>
+      </div>
+    </main>
+    <script src="game.js" defer></script>
+  </body>
+</html>
